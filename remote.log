@@ -1,1 +1,1 @@
-a0681be9-5c99-462c-8254-17a9cb5928bc bucket=test-data datacenter=US encryption=none host=radosgw.public.os.wwu.de name=uniS3 port=80 protocol=https public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1716891607s
+a0681be9-5c99-462c-8254-17a9cb5928bc bucket=test-data datacenter=US encryption=none host=radosgw.public.os.wwu.de name=uniS3 port=80 protocol=https public=yes publicurl=https://radosgw.public.os.wwu.de/test-data requeststyle=path storageclass=STANDARD type=S3 timestamp=1716892040s
